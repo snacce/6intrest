@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/6intrest/static/css/main.3df8de6e.css",
-    "main.js": "/6intrest/static/js/main.4c911708.js",
+    "main.css": "/6intrest/static/css/main.4ed7a16f.css",
+    "main.js": "/6intrest/static/js/main.d372ac9a.js",
     "static/js/453.14cdbf49.chunk.js": "/6intrest/static/js/453.14cdbf49.chunk.js",
     "static/media/jpg": "/6intrest/static/media/a6acf62ea2908ff62670cd85b1909e09.c02ddda0ecf09cb2f1da.jpg",
     "static/media/ .jpg": "/6intrest/static/media/ .aa4d4f4edf2cf90256d7.jpg",
@@ -10,12 +10,12 @@
     "static/media/travel.jpg": "/6intrest/static/media/travel.a99094db4764c88b6591.jpg",
     "static/media/Shoebaloo Amsterdam by MVSA Architects (2002).jpg": "/6intrest/static/media/Shoebaloo Amsterdam by MVSA Architects (2002).cee945222cde81a78b8f.jpg",
     "index.html": "/6intrest/index.html",
-    "main.3df8de6e.css.map": "/6intrest/static/css/main.3df8de6e.css.map",
-    "main.4c911708.js.map": "/6intrest/static/js/main.4c911708.js.map",
+    "main.4ed7a16f.css.map": "/6intrest/static/css/main.4ed7a16f.css.map",
+    "main.d372ac9a.js.map": "/6intrest/static/js/main.d372ac9a.js.map",
     "453.14cdbf49.chunk.js.map": "/6intrest/static/js/453.14cdbf49.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3df8de6e.css",
-    "static/js/main.4c911708.js"
+    "static/css/main.4ed7a16f.css",
+    "static/js/main.d372ac9a.js"
   ]
 }
